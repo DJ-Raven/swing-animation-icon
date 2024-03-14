@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" data-name="Слой 1" viewBox="0 0 48 48" width="24" height="24">
+  <defs>
+    <linearGradient id="__PypIlSnM7EGa1JYK~KAa" x1="9" x2="9" y1="-5.272" y2="19.287" data-name="Безымянный градиент 147" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#dfe9f2" />
+      <stop offset=".391" stop-color="#d6e0e9" />
+      <stop offset="1" stop-color="#bfc8d1" />
+    </linearGradient>
+    <linearGradient id="__PypIlSnM7EGa1JYK~KAc" x1="39" x2="39" y1="-5.272" y2="19.287" gradientTransform="rotate(-180 39 17.5)" xlink:href="#__PypIlSnM7EGa1JYK~KAa" />
+    <linearGradient id="__PypIlSnM7EGa1JYK~KAb" x1="6" x2="6" y1="29.261" y2="-.48" data-name="Безымянный градиент 18" gradientUnits="userSpaceOnUse">
+      <stop offset=".002" stop-color="#454545" />
+      <stop offset=".013" stop-color="#464646" />
+      <stop offset=".874" stop-color="#626262" />
+      <stop offset="1" stop-color="#6d6d6d" />
+    </linearGradient>
+    <linearGradient id="__PypIlSnM7EGa1JYK~KAd" x1="42" x2="42" y1="29.261" y2="-.48" xlink:href="#__PypIlSnM7EGa1JYK~KAb" />
+    <linearGradient id="__PypIlSnM7EGa1JYK~KAe" x1="24" x2="24" y1="-4" y2="49.414" xlink:href="#__PypIlSnM7EGa1JYK~KAa" />
+    <linearGradient id="__PypIlSnM7EGa1JYK~KAf" x1="31" x2="31" y1="32.391" y2="6.525" xlink:href="#__PypIlSnM7EGa1JYK~KAb" />
+    <linearGradient id="__PypIlSnM7EGa1JYK~KAg" x1="17" x2="17" y1="32.391" y2="6.525" xlink:href="#__PypIlSnM7EGa1JYK~KAb" />
+    <linearGradient id="__PypIlSnM7EGa1JYK~KAh" x1="24" x2="24" y1="48.891" y2="14.717" xlink:href="#__PypIlSnM7EGa1JYK~KAb" />
+    <linearGradient id="__PypIlSnM7EGa1JYK~KAi" x1="24" x2="24" y1="17.454" y2="5.36" xlink:href="#__PypIlSnM7EGa1JYK~KAb" />
+  </defs>
+  <path fill="url(#__PypIlSnM7EGa1JYK~KAa)" d="M15,20v7H9a6.00472,6.00472,0,0,1-6-6V8A11.984,11.984,0,0,1,15,20Z" />
+  <path fill="url(#__PypIlSnM7EGa1JYK~KAc)" d="M39,8h6a0,0,0,0,1,0,0v7A12,12,0,0,1,33,27h0a0,0,0,0,1,0,0V14A6,6,0,0,1,39,8Z" transform="rotate(180 39 17.5)" />
+  <path fill="url(#__PypIlSnM7EGa1JYK~KAb)" d="M9,27H9a6.00472,6.00472,0,0,1-6-6V8C9,14,9,18,9,27Z" />
+  <path fill="url(#__PypIlSnM7EGa1JYK~KAd)" d="M39,27h0a6.00472,6.00472,0,0,0,6-6V8C39,14,39,18,39,27Z" />
+  <path fill="url(#__PypIlSnM7EGa1JYK~KAe)" d="M41,29c0-9.1127-7.61116-19-17-19S7,19.8873,7,29c0,8,13,14,17,14S41,37,41,29Z" />
+  <path fill="url(#__PypIlSnM7EGa1JYK~KAf)" d="M36,25c0-3-2.75-5.5-4.28535-6.78551a1.07631,1.07631,0,0,0-1.4293,0C28.75,19.5,26,22,26,25a5,5,0,0,0,10,0Z" />
+  <path fill="url(#__PypIlSnM7EGa1JYK~KAg)" d="M22,25c0-3-2.75-5.5-4.28535-6.78551a1.07631,1.07631,0,0,0-1.4293,0C14.75,19.5,12,22,12,25a5,5,0,0,0,10,0Z" />
+  <circle cx="17" cy="25" r="3" fill="#fed100" />
+  <circle cx="17" cy="25" r="1.5" fill="#343434" />
+  <circle cx="31" cy="25" r="3" fill="#fed100" />
+  <circle cx="31" cy="25" r="1.5" fill="#343434" />
+  <path fill="url(#__PypIlSnM7EGa1JYK~KAh)" d="M33,36.84622c0-4.923-7.71429-4.923-9-9.847-1.28571,4.924-9,4.924-9,9.847C15,40.24486,19.02944,43,24,43S33,40.24486,33,36.84622Z" />
+  <path fill="#343434" d="M22.22329,33h3.55342c1.01614,0,1.58767.98922.96375,1.66805L24.96374,36.6011a1.36364,1.36364,0,0,1-1.92748,0l-1.77672-1.93305C20.63562,33.98922,21.20715,33,22.22329,33Z" />
+  <path fill="#343434" d="M26.999,40a.99943.99943,0,0,1-.55371-.168L24,38.20215,21.55469,39.832A1,1,0,0,1,20.44531,38.168l3-2a.99746.99746,0,0,1,1.10938,0l3,2A1,1,0,0,1,26.999,40Z" />
+  <path fill="url(#__PypIlSnM7EGa1JYK~KAi)" d="M36.25,16.36C33,18,25,16,24,14c-1,2-9,4-12.25,2.36C14.84,12.6,19.19,10,24,10S33.16,12.6,36.25,16.36Z" />
+</svg>
