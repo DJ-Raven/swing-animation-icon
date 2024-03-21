@@ -4,7 +4,6 @@ import com.formdev.flatlaf.extras.FlatSVGIcon;
 import com.formdev.flatlaf.util.AnimatedIcon;
 import com.formdev.flatlaf.util.Animator;
 import raven.swing.animation.Interpolator;
-import raven.swing.animation.color.AnimationColorFilter;
 
 import javax.swing.*;
 import java.awt.*;
@@ -91,7 +90,6 @@ public class AnimationIcon implements AnimatedIcon {
         protected Animator.Interpolator interpolator;
         protected Interpolator scaleInterpolator;
         protected Interpolator rotateInterpolator;
-        protected AnimationColorFilter colorFilter;
         protected int duration = 150;
 
 
@@ -107,11 +105,6 @@ public class AnimationIcon implements AnimatedIcon {
 
         public AnimatedOption setRotateInterpolator(Interpolator rotateInterpolator) {
             this.rotateInterpolator = rotateInterpolator;
-            return this;
-        }
-
-        public AnimatedOption setColorFilter(AnimationColorFilter colorFilter) {
-            this.colorFilter = colorFilter;
             return this;
         }
 

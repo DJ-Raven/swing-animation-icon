@@ -20,7 +20,6 @@ public class Demo extends JFrame {
         AnimationIcon.AnimatedOption animatedOption = new AnimationIcon.AnimatedOption()
                 .setScaleInterpolator(new KeyFrames(0f, 1f))
                 .setRotateInterpolator(new KeyFrames(0f, 30f, 0f))
-                // .setInterpolator(EasingInterpolator.EASE_OUT_BOUNCE)
                 .setDuration(1000);
         JToggleButton button1 = new JToggleButton("Monster", new AnimationIcon("raven/swing/monster.svg", animatedOption));
         JToggleButton button2 = new JToggleButton("Pug", new AnimationIcon("raven/swing/pug.svg", animatedOption));
